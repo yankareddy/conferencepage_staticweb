@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-card {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+}
+
+.homepage-image {
+    width: 100vw;
+    background-size: cover;
+}
+
+.homepage-card {
+    margin: 10px;
+    text-align: center;
+}
+
+.homepage-card-head {
+    color: #183b56;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.homepage-card-paragraph {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.homepage-card-head1 {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.homepage-card-paragraph1 {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.homepage-card-head2 {
+    color: #183b56;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.homepage-card-paragraph2 {
+    color: #5a7184;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.home-page-card-bottom {
+    margin: 10px;
+    padding: 10px;
+}
+
+.home-page-bottom {
+    text-align: center;
+}
